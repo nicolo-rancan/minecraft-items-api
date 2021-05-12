@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.6",
+    "request-promise": "^4.2.6"
+  },
+  "name": "minecraft-items-api",
+  "version": "1.0.0",
+  "description": "Minecraft items api",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolò Rancan",
+  "license": "MIT"
+}
